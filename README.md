@@ -59,7 +59,7 @@ The webapplication is currently hosted by [Firebase](https://firebase.google.com
 2. Open the project root directory
 
    ```bash
-   cd projecten3-1920-angular-kolv02
+   cd Kolveniershof-angular
    ```
 
 3. Install dependencies from npm
@@ -79,7 +79,7 @@ The webapplication is currently hosted by [Firebase](https://firebase.google.com
 > Copy paste this in your terminal if you're lazy. 😴
 >
 > ```bash
-> git clone https://github.com/HoGent-Projecten3/projecten3-1920-angular-kolv02 && cd projecten3-1920-angular-kolv02 && npm i && npm start
+> git clone https://github.com/RubenDeFreyne/Kolveniershof-angular && cd Kolveniershof-angular && npm i && npm start
 > ```
 
 #### Dummy login
