@@ -53,13 +53,13 @@ The webapplication is currently hosted by [Firebase](https://firebase.google.com
 1. Clone this repo
 
    ```bash
-   git clone https://github.com/RubenDeFreyne/Kolveniershof-angular
+   git clone https://github.com/RubenDeFreyne/Kolveniershof-web
    ```
 
 2. Open the project root directory
 
    ```bash
-   cd Kolveniershof-angular
+   cd Kolveniershof-web
    ```
 
 3. Install dependencies from npm
@@ -79,7 +79,7 @@ The webapplication is currently hosted by [Firebase](https://firebase.google.com
 > Copy paste this in your terminal if you're lazy. 😴
 >
 > ```bash
-> git clone https://github.com/RubenDeFreyne/Kolveniershof-angular && cd Kolveniershof-angular && npm i && npm start
+> git clone https://github.com/RubenDeFreyne/Kolveniershof-web && cd Kolveniershof-web && npm i && npm start
 > ```
 
 #### Dummy login
