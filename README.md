@@ -1,3 +1,5 @@
+**NOTE: This was a group assignment. View all commits carefully to get an insight into my abilities. The end result is suboptimal due to complications during this project. Please contact me for more information.**
+
 <p align="center"><img src="./src/assets/img/logo.svg" width="200px"/></p>
 
 <h1 align="center">Kolveniershof webapplication</h1>
@@ -51,7 +53,7 @@ The webapplication is currently hosted by [Firebase](https://firebase.google.com
 1. Clone this repo
 
    ```bash
-   git clone https://github.com/HoGent-Projecten3/projecten3-1920-angular-kolv02
+   git clone https://github.com/RubenDeFreyne/Kolveniershof-angular
    ```
 
 2. Open the project root directory
