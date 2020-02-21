@@ -118,7 +118,7 @@ This application relies on a REST backend server.
 2. Change the value for `API_URL` to your own link.
 3. Create a new Firebase project and change the values accordingly.
 
-The sourcecode for this server is located [here](https://github.com/HoGent-Projecten3/projecten3-1920-backend-kolv02). The server is hosted by [Heroku](https://www.heroku.com/) [![Website](https://img.shields.io/website?label=backend&logo=heroku&url=https%3A%2F%2Fkolv02-backend.herokuapp.com%2Fdocs)](https://kolv02-backend.herokuapp.com).
+The sourcecode for this server is located [here](https://github.com/JakobLierman/Kolveniershof-backend). The server is hosted by [Heroku](https://www.heroku.com/) [![Website](https://img.shields.io/website?label=backend&logo=heroku&url=https%3A%2F%2Fkolv02-backend.herokuapp.com%2Fdocs)](https://kolv02-backend.herokuapp.com).
 
 ## Built With
 
@@ -130,6 +130,6 @@ The sourcecode for this server is located [here](https://github.com/HoGent-Proje
 
 ## Team
 
-| <a href="https://github.com/JakobLierman" target="_blank">**Jakob Lierman**</a> | <a href="https://github.com/RubenDeFreyne" target="_blank">**Ruben De Freyne**</a>  | <a href="https://github.com/VictorOwnt" target="_blank">**Victor Van Hulle**</a> | <a href="https://github.com/reeveng" target="_blank">**Reeven Govaert**</a> | <a href="https://github.com/SWeB06" target="_blank">**Sebastien Wojtyla**</a> |<a href="https://github.com/WoutMaes" target="_blank">**Wout Maes**</a> |
+| <a href="https://github.com/RubenDeFreyne" target="_blank">**Ruben De Freyne**</a> | <a href="https://github.com/JakobLierman" target="_blank">**Jakob Lierman**</a>   | <a href="https://github.com/VictorOwnt" target="_blank">**Victor Van Hulle**</a> | <a href="https://github.com/reeveng" target="_blank">**Reeven Govaert**</a> | <a href="https://github.com/SWeB06" target="_blank">**Sebastien Wojtyla**</a> |<a href="https://github.com/WoutMaes" target="_blank">**Wout Maes**</a> |
 | --- | --- | --- | --- | --- | --- |
-| [![Jakob](https://avatars2.githubusercontent.com/u/25779630?s=200)](https://github.com/JakobLierman) | [![Ruben](https://avatars2.githubusercontent.com/u/25815999?s=200)](https://github.com/RubenDeFreyne) | [![Victor](https://avatars2.githubusercontent.com/u/17174095?s=200)](https://github.com/VictorOwnt) | [![Reeven](https://avatars3.githubusercontent.com/u/36441093?s=200)](https://github.com/reeveng)| [![Sebastien](https://avatars2.githubusercontent.com/u/36441058?s=200)](https://github.com/SWeB06) | [![Wout](https://avatars0.githubusercontent.com/u/36442271?s=200)](https://github.com/WoutMaes)
+| [![Ruben](https://avatars2.githubusercontent.com/u/25815999?s=200)](https://github.com/RubenDeFreyne) | [![Jakob](https://avatars2.githubusercontent.com/u/25779630?s=200)](https://github.com/JakobLierman)  | [![Victor](https://avatars2.githubusercontent.com/u/17174095?s=200)](https://github.com/VictorOwnt) | [![Reeven](https://avatars3.githubusercontent.com/u/36441093?s=200)](https://github.com/reeveng)| [![Sebastien](https://avatars2.githubusercontent.com/u/36441058?s=200)](https://github.com/SWeB06) | [![Wout](https://avatars0.githubusercontent.com/u/36442271?s=200)](https://github.com/WoutMaes)
